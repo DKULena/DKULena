@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+![DKULena's GitHub stats](https://github-readme-stats.vercel.app/api?username=DKULena&show_icons=true&theme=dark)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=medioloper)](https://solved.ac/medioloper)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DKULena&layout=compact&theme=onedark)
+
 <!--
 **DKULena/DKULena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
