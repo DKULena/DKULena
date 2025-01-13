@@ -1,4 +1,4 @@
-## 반갑습니다, 저는 개발자 medioloper 입니다. <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="24"/>
+## 반갑습니다, 저는 개발자 이성재 입니다. <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="24"/>
 
 
 <img align="right" alt="코딩" width="200" src="https://github.githubassets.com/images/mona-whisper.gif" width="200" /> 
