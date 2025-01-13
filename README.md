@@ -7,14 +7,6 @@
 
 안녕하세요, 반갑습니다. 🤗<br />저는 현재 잡생각과 호기심이 많은 반전공 프론트엔드 개발자 입니다. 🚀<br />지금은 취업을 준비하면서 <br /> 개발에 깊이에 관해 좀 더 이해할 수 있도록 노력을 하며 글을 작성중입니다. 🤝<br /><br /><i><strong>매일 매일 아무것도 아닌 일을 꾸준히 하다보면 취미가 되고, 일이 되며, 나의 적성이 된다.</strong></i><br /> 
 
-![DKULena's GitHub stats](https://github-readme-stats.vercel.app/api?username=DKULena&show_icons=true&theme=dark)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=medioloper)](https://solved.ac/medioloper)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DKULena&layout=compact&theme=onedark)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDKULena&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 <br />
 <br />
 
@@ -62,6 +54,14 @@
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more articles...](https://velog.io/@medioloper/posts)
+
+![DKULena's GitHub stats](https://github-readme-stats.vercel.app/api?username=DKULena&show_icons=true&theme=dark)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=medioloper)](https://solved.ac/medioloper)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DKULena&layout=compact&theme=onedark)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDKULena&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 <!--
